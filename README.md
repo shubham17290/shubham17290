@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm algoXninja
+# 💫 Hi 👋, I'm Shubham maurya
 **A passionate Software developer engineer || so much passionate about AI/ML
 
 Email Me 👉 ✉️ **smourya1046@gmail.com** For Collaboration/Project or Anything Else. 😊😊
