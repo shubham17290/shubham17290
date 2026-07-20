@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Shubham maurya
-**A passionate Software developer engineer || so much passionate about AI/ML
+# 👋 Hi, I'm Shubham Maurya
 
-Email Me 👉 ✉️ **smourya1046@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### 💻 Aspiring Software Engineer | AI/ML Enthusiast | Open Source Learner
 
-- 🔭 **I’m currently working on: ** AI/ML And Mern project
-- 🌱 **I’m currently learning:** MERN and AI/ML 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** smourya1046@gmail.com
-- 😄 **Pronouns:** Shubham maurya
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+Passionate about building scalable software, solving real-world problems, and continuously improving my skills in Software Development, Artificial Intelligence, Machine Learning, and Full-Stack Development.
+
+📧 **Email:** **smourya1046@gmail.com**
+
+- 🔭 **Currently Building:** AI/ML & Full-Stack Projects
+- 🌱 **Currently Learning:** MERN Stack, Data Structures & Algorithms, System Design, and AI/ML
+- 🤝 **Open to Collaborate On:** Open Source & Software Development Projects
+- 💬 **Ask Me About:** C, C++, Python, Git, GitHub, DSA, and Web Development
+- 📫 **Reach Me:** **smourya1046@gmail.com**
 
 
 ## 🏆 GitHub Trophies
