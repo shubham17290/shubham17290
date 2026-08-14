@@ -125,7 +125,7 @@ jobs:
 <br />
 
 ### 📌 Pinned Repositories
-*(Replace `REPO_NAME_1` and `REPO_NAME_2` below with your actual project names to showcase your best work!)*
+*(Replace `Shubham_Maurya_PBEL_3.0` and `vscode-dev-snippets` below with your actual project names to showcase your best work!)*
 <p align="center">
   <a href="https://github.com/shubham17290/REPO_NAME_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=REPO_NAME_1&theme=dark" />
