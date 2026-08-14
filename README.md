@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Shubham Maurya
 
-### 💻 MERN Stack & AI/ML Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+</p>
 
-Passionate about building scalable software and solving real-world problems. I specialize in creating robust Full-Stack web applications (MERN) and exploring the endless possibilities of Artificial Intelligence and Machine Learning.
+### 💻 Aspiring Software Engineer | AI/ML Enthusiast
+
+Passionate about building scalable software, solving real-world problems, and continuously improving my skills in Software Development, Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
 📧 **Email:** **smourya1046@gmail.com**
 
@@ -12,12 +16,24 @@ Passionate about building scalable software and solving real-world problems. I s
 - 💬 **Ask Me About:** MERN, Python, AI/ML, Data Structures, and System Design
 - 📫 **Reach Me:** **smourya1046@gmail.com**
 
+<br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubhamm01729/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-maurya-99325b380/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Playful_Willow_6581/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27632565/algoxninja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShubhamMau94210) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smourya1046@gmail.com) 
+<p align="center">
+  <a href="https://www.instagram.com/shubhamm01729/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-maurya-99325b380/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/Playful_Willow_6581/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/27632565/algoxninja"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://x.com/ShubhamMau94210"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:smourya1046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+<br />
 
 # 💻 Tech Stack:
 
@@ -33,52 +49,93 @@ Passionate about building scalable software and solving real-world problems. I s
 **☁️ DevOps & Tools:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
+<br />
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham17290&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+# 📊 GitHub Stats & Graphs:
+
+<!-- Core Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham17290&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=shubham17290&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham17290&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
-</div>
+</p>
 
 <br />
 
-<!-- Contribution Graph -->
-<div align="center">
+<!-- Advanced Summary Cards (A beautiful dashboard view) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham17290&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham17290&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham17290&theme=github_dark" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham17290&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham17290&theme=github_dark&utcOffset=8" alt="Productive Time" />
+</p>
+
+<br />
+
+<!-- Contribution & Activity Graph -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham17290&theme=react-dark" alt="Contribution Graph" />
-</div>
+</p>
 
 <br />
 
 <!-- Snake Animation -->
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/shubham17290/shubham17290/output/snake.svg" alt="Snake animation" />
-</div>
-<br />
+</p>
 
 <details>
-  <summary><b>🐍 How to enable the Snake Animation</b></summary>
+  <summary><b>🐍 Click to see how to enable the Snake Animation</b></summary>
   <br />
   To make the snake appear, create a new file in your repository at: <code>.github/workflows/snake.yml</code> and paste this inside:
-  
-  ```yaml
-  name: Generate snake animation
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: dist/snake.svg
-        - uses: peaceiris/actions-gh-pages@v3
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: dist
-            publish_branch: output
+  <pre><code>name: Generate snake animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+</code></pre>
+</details>
+
+<br />
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shubham17290&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham17290&icon=0&color=0" alt="Profile views counter" />
+</p>
+
+## 💰 You can help me by Donating
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shubhammau"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://paypal.me/shubhammaurya"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
