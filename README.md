@@ -53,16 +53,14 @@ Passionate about building scalable software, solving real-world problems, and co
 
 # 📊 GitHub Stats & Graphs:
 
-<!-- Core Stats -->
+<!-- Reliable Stats (No rate limit errors) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham17290&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shubham17290&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham17290&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=shubham17290&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <br />
 
-<!-- Advanced Summary Cards (A beautiful dashboard view) -->
+<!-- Beautiful Dashboard Cards (More stable than the standard API) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham17290&theme=github_dark" alt="Profile Details" />
 </p>
@@ -90,9 +88,9 @@ Passionate about building scalable software, solving real-world problems, and co
 </p>
 
 <details>
-  <summary><b>🐍 Click to see how to enable the Snake Animation</b></summary>
+  <summary><b>🐍 Click here to learn how to enable the Snake Animation</b></summary>
   <br />
-  To make the snake appear, create a new file in your repository at: <code>.github/workflows/snake.yml</code> and paste this inside:
+  If the snake is not showing, you need to create a new file in your repository at: <code>.github/workflows/snake.yml</code> and paste this:
   <pre><code>name: Generate snake animation
 on:
   schedule:
@@ -117,14 +115,22 @@ jobs:
 
 <br />
 
-### ✍️ Random Dev Quote
+### 📌 Pinned Repositories
+*(Replace `REPO_NAME_1` and `REPO_NAME_2` below with your actual project names to showcase your best work!)*
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://github.com/shubham17290/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=REPO_NAME_1&theme=dark" />
+  </a>
+  <a href="https://github.com/shubham17290/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=REPO_NAME_2&theme=dark" />
+  </a>
 </p>
 
-### 🔝 Top Contributed Repo
+<br />
+
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shubham17290&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
