@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
-### 💻 Aspiring Software Engineer | AI/ML Enthusiast
+### 💻 Aspiring Software Engineer | AI/ML obsessed
 
 Passionate about building scalable software, solving real-world problems, and continuously improving my skills in Software Development, Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
