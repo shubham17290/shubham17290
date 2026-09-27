@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham Maurya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Learner;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ### 💻 Aspiring Software Engineer | AI/ML obsessed
@@ -15,12 +15,15 @@ Passionate about building scalable software, solving real-world problems, and co
 - 🤝 **Open to Collaborate On:** Open Source, Web Apps, and ML Research
 - 💬 **Ask Me About:** MERN, Python, AI/ML, Data Structures, and System Design
 - 📫 **Reach Me:** **smourya1046@gmail.com**
+- ⚡ **Fun Fact:** I love turning complex problems into clean, simple code.
 
 <br />
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
 </p>
 
 ## 🌐 Socials:
@@ -38,7 +41,7 @@ Passionate about building scalable software, solving real-world problems, and co
 # 💻 Tech Stack:
 
 **🧑‍💻 Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 **⚙️ Backend & Databases:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -47,7 +50,7 @@ Passionate about building scalable software, solving real-world problems, and co
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-121011?style=for-the-badge&logo=huggingface&logoColor=fff) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 **🖥️ Core Programming Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PYTHON](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **☁️ Cloud Platforms & Hosting:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,18 +63,60 @@ Passionate about building scalable software, solving real-world problems, and co
 
 <br />
 
-# 📊 GitHub Stats & Graphs:
+# 🚀 Featured Projects
 
-<!-- Reliable Stats (No rate limit errors) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=shubham17290&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/shubham17290/Shubham_Maurya_PBEL_3.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=Shubham_Maurya_PBEL_3.0&theme=dark" />
+  </a>
+  <a href="https://github.com/shubham17290/vscode-dev-snippets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=vscode-dev-snippets&theme=dark" />
+  </a>
 </p>
+
+> 💡 Replace the repo names above with your best projects anytime.
 
 <br />
 
-<!-- Beautiful Dashboard Cards (More stable than the standard API) -->
+# 🎯 Current Focus
+
+- Building production-ready MERN stack applications
+- Deepening AI/ML knowledge with TensorFlow, PyTorch, and scikit-learn
+- Learning advanced system design and scalable architecture
+- Contributing to open-source projects
+- Strengthening DSA and problem-solving skills
+
+<br />
+
+# 🧠 2025 Goals
+
+- [ ] Ship 3+ full-stack projects
+- [ ] Contribute regularly to open source
+- [ ] Write technical blogs/tutorials
+- [ ] Master system design fundamentals
+- [ ] Collaborate on an AI/ML research or product project
+
+<br />
+
+# 🤝 Open Source & Collaboration
+
+I’m always open to collaborating on:
+
+- Open-source developer tools
+- MERN stack web applications
+- AI/ML experiments and research
+- Beginner-friendly open-source projects
+
+If you have an idea or project, feel free to reach out at **smourya1046@gmail.com**.
+
+<br />
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham17290&theme=github_dark" alt="Profile Details" />
+  <a href="https://github.com/shubham17290">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham17290&theme=github_dark" alt="Profile Details" />
+  </a>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham17290&theme=github_dark" alt="Repos per Language" />
@@ -84,9 +129,24 @@ Passionate about building scalable software, solving real-world problems, and co
 
 <br />
 
-<!-- Contribution & Activity Graph -->
+# 📅 Live Commit Record
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham17290&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/shubham17290" alt="Live GitHub Contribution Chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham17290&theme=react-dark" alt="Live Commit Activity Graph" />
+</p>
+
+<br />
+
+# 🔥 Live Streak Record
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham17290&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br />
@@ -121,19 +181,6 @@ jobs:
           publish_branch: output
 </code></pre>
 </details>
-
-<br />
-
-### 📌 Pinned Repositories
-*(Replace `Shubham_Maurya_PBEL_3.0` and `vscode-dev-snippets` below with your actual project names to showcase your best work!)*
-<p align="center">
-  <a href="https://github.com/shubham17290/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=REPO_NAME_1&theme=dark" />
-  </a>
-  <a href="https://github.com/shubham17290/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=REPO_NAME_2&theme=dark" />
-  </a>
-</p>
 
 <br />
 
