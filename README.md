@@ -88,7 +88,7 @@ Passionate about building scalable software, solving real-world problems, and co
 
 <br />
 
-# 🧠 2025 Goals
+# 🧠 2026 Goals
 
 - [ ] Ship 3+ full-stack projects
 - [ ] Contribute regularly to open source
