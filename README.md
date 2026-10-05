@@ -306,16 +306,70 @@ const shubham: Developer = {
 
 <div align="center">
 
+### ⭐ &nbsp;Flagship Project
+
 <br/>
 
-<a href="https://github.com/shubham17290/Shubham_Maurya_PBEL_3.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=Shubham_Maurya_PBEL_3.0&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
-</a>
-<a href="https://github.com/shubham17290/vscode-dev-snippets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=vscode-dev-snippets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+<a href="https://github.com/shubham17290/AI-TELEGRAM-ASSISTANT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=AI-TELEGRAM-ASSISTANT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
 </a>
 
-<br/><br/>
+**🤖 AI Telegram Assistant** — An intelligent Telegram bot powered by LLMs for automated conversations, task handling & smart replies.
+
+`Python` &nbsp; `OpenAI API` &nbsp; `Telegram Bot API` &nbsp; `LangChain`
+
+</div>
+
+<br/>
+
+### 🌟 &nbsp;More Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/shubham17290/FitXGuide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=FitXGuide&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+  </a>
+  <br/>
+  <b>💪 FitXGuide</b> — Your personal fitness companion for workouts, diet plans & health tracking.
+  <br/><br/>
+  <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>TailwindCSS</code>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/shubham17290/PREPForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=PREPForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+  </a>
+  <br/>
+  <b>📚 PREPForge</b> — A prep platform for DSA, interviews & study resources — all in one place.
+  <br/><br/>
+  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/shubham17290/shubham-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=shubham-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+  </a>
+  <br/>
+  <b>🎨 Portfolio</b> — My personal portfolio website showcasing skills, projects & journey.
+  <br/><br/>
+  <code>React</code> <code>TailwindCSS</code> <code>Vite</code> <code>Framer Motion</code>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/shubham17290/Shubham_Maurya_PBEL_3.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=Shubham_Maurya_PBEL_3.0&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+  </a>
+  <br/>
+  <b>🧪 PBEL 3.0</b> — Project-based experimental learning project — hands-on engineering concepts.
+  <br/><br/>
+  <code>Python</code> <code>ML</code> <code>Data Science</code>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/shubham17290?tab=repositories">
   <img src="https://img.shields.io/badge/🔎%20%20Explore%20All%20Repositories-00FF00?style=for-the-badge&labelColor=000000" />
