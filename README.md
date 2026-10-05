@@ -40,6 +40,7 @@
 <a href="#-about-me">` 👤 About `</a> &nbsp;
 <a href="#-connect-with-me">` 🌐 Connect `</a> &nbsp;
 <a href="#️-tech-stack--tools">` 🛠️ Stack `</a> &nbsp;
+<a href="#-ai-tools-i-use-daily">` 🤖 AI Tools `</a> &nbsp;
 <a href="#-featured-projects">` 🚀 Projects `</a> &nbsp;
 <a href="#-github-analytics">` 📊 Stats `</a> &nbsp;
 <a href="#-trophy-cabinet">` 🏆 Trophies `</a> &nbsp;
@@ -227,6 +228,73 @@ const shubham: Developer = {
 </details>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🤖  AI TOOLS I USE DAILY                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🤖 &nbsp;AI Tools I Use Daily
+
+<div align="center">
+
+<br/>
+
+<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://chat.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
+<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+<a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-1E1E1E?style=for-the-badge&logo=terminal&logoColor=00FF00" /></a>
+<a href="https://chat.qwen.ai/"><img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🧠 Tool</th>
+      <th align="left">🎯 Purpose in My Workflow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>💬 ChatGPT</b></td>
+      <td>Brainstorming ideas, debugging tricky logic, writing docs & technical explanations</td>
+    </tr>
+    <tr>
+      <td align="center"><b>🐋 DeepSeek</b></td>
+      <td>Deep reasoning on DSA problems, math-heavy ML concepts & code refactoring</td>
+    </tr>
+    <tr>
+      <td align="center"><b>✨ Gemini</b></td>
+      <td>Long-context research, PDF/summary reading, and Google-ecosystem integrations</td>
+    </tr>
+    <tr>
+      <td align="center"><b>🖱️ Cursor</b></td>
+      <td>AI-first IDE for fast MERN development, inline edits & multi-file refactors</td>
+    </tr>
+    <tr>
+      <td align="center"><b>⌨️ OpenCode</b></td>
+      <td>Terminal-native AI coding agent for quick scripts, debugging & automation</td>
+    </tr>
+    <tr>
+      <td align="center"><b>🌐 Qwen</b></td>
+      <td>Open-weight LLM experiments, multilingual tasks & local model fine-tuning</td>
+    </tr>
+    <tr>
+      <td align="center"><b>🎭 Claude</b></td>
+      <td>Writing clean, production-grade code, code review & detailed architectural thinking</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+> 💡 **My AI-first workflow:** *Think with ChatGPT → Reason with DeepSeek → Code in Cursor → Polish with Claude → Ship with Gemini.*
 
 ---
 
@@ -558,4 +626,7 @@ If you find my work helpful, a small coffee goes a long way ☕
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=footer&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer Wave"/>
+<!-- ───────  FOOTER WAVE (with text properly placed inside)  ─────── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=72&desc=Let's%20build%20something%20amazing%20together%20%E2%9C%A8&descAlignY=88&descSize=16" width="100%" alt="Footer Wave"/>
+</div>
