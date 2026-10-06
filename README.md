@@ -1,159 +1,104 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                                                             -->
-<!--                    🌟  S H U B H A M   M A U R Y A  🌟                      -->
+<!--                    🥷  S H U B H A M   M A U R Y A  🥷                      -->
 <!--                                                                             -->
-<!--              Aspiring Software Engineer • MERN • AI/ML • OSS                -->
+<!--              Code. Conquer. Repeat. • MERN • AI/ML • OSS                    -->
 <!--                                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ─────────────────────────────  HERO BANNER  ───────────────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Shubham%20Maurya&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%E2%9C%A6%20Aspiring%20Software%20Engineer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20AI%2FML%20%E2%9C%A6&descAlignY=58&descSize=22" width="100%" alt="Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=SHUBHAM%20MAURYA&fontSize=76&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%E2%9A%94%EF%B8%8F%20Software%20Engineer%20%7C%20MERN%20%7C%20AI%2FML%20%7C%20Ninja%20Coder%20%E2%9A%94%EF%B8%8F&descAlignY=58&descSize=20" width="100%" alt="Hero Banner"/>
 </div>
 
-<!-- ───────────────────────────  TYPING ANIMATION  ─────────────────────────── -->
 <div align="center">
-  <a href="https://github.com/shubham17290">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Shubham+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Learner+%F0%9F%8C%B1;Problem+Solver+%F0%9F%A7%A0;Always+Building+Something+New+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=DC143C&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Root+Access+Granted+%F0%9F%94%93;%3E+Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;%3E+Training+AI+Models+%F0%9F%A4%96;%3E+Writing+Clean+Code+That+Ships+%F0%9F%9A%80;%3E+Never+Stop+Learning+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
-
-<!-- ─────────────────────────────  QUICK STATS  ───────────────────────────── -->
-<div align="center">
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubham17290&label=Profile%20Views&color=00FF00&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/shubham17290?label=Followers&style=for-the-badge&color=00BFFF&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/shubham17290?label=Stars&style=for-the-badge&color=8A2BE2&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-FF6F00?style=for-the-badge&logo=statuspage&logoColor=white)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubham17290&label=RECON&color=DC143C&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shubham17290?label=ALLIES&style=for-the-badge&color=000000&logo=github&logoColor=DC143C)
+![Stars](https://img.shields.io/github/stars/shubham17290?label=CONQUESTS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700)
+![Status](https://img.shields.io/badge/STATUS-CODING-FF4500?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────────  TABLE OF CONTENTS  ────────────────────────── -->
 <div align="center">
 
-### 🗺️ &nbsp; Quick Navigation
+### ⚔️ &nbsp; Arsenal Map
 
-<a href="#-about-me">` 👤 About `</a> &nbsp;
-<a href="#-connect-with-me">` 🌐 Connect `</a> &nbsp;
-<a href="#️-tech-stack--tools">` 🛠️ Stack `</a> &nbsp;
-<a href="#-ai-tools-i-use-daily">` 🤖 AI Tools `</a> &nbsp;
-<a href="#-featured-projects">` 🚀 Projects `</a> &nbsp;
-<a href="#-github-analytics">` 📊 Stats `</a> &nbsp;
-<a href="#-trophy-cabinet">` 🏆 Trophies `</a> &nbsp;
-<a href="#-my-journey--goals">` 🎯 Journey `</a> &nbsp;
-<a href="#-lets-collaborate">` 🤝 Collaborate `</a> &nbsp;
-<a href="#-support-my-work">` 💰 Support `</a>
+<a href="#-the-coder">` 🥷 IDENTITY `</a> &nbsp;•&nbsp;
+<a href="#-weapons-of-choice">` ⚔️ WEAPONS `</a> &nbsp;•&nbsp;
+<a href="#-ai-arsenal">` 🤖 AI `</a> &nbsp;•&nbsp;
+<a href="#-the-forge-projects">` 🔥 FORGE `</a> &nbsp;•&nbsp;
+<a href="#-battle-stats">` 📊 STATS `</a> &nbsp;•&nbsp;
+<a href="#-trophies">` 🏆 TROPHIES `</a> &nbsp;•&nbsp;
+<a href="#-mission-log">` 🎯 MISSIONS `</a> &nbsp;•&nbsp;
+<a href="#-summon-me">` 📡 SUMMON `</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                               👤  ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🥷 &nbsp;The Coder
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> &nbsp;About Me
-
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Ninja Coder" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ```typescript
-const shubham: Developer = {
-    name           : "Shubham Maurya",
-    role           : "Aspiring Software Engineer",
-    location       : "India 🇮🇳",
-    focus          : ["MERN Stack", "AI/ML", "System Design"],
-    currently      : "Building production-ready full-stack apps",
-    learning       : ["Advanced System Design", "Deep Learning"],
-    openTo         : ["Open Source", "Web Apps", "ML Research"],
-    askMeAbout     : ["MERN", "Python", "AI/ML", "DSA", "System Design"],
-    email          : "smourya1046@gmail.com",
-    funFact        : "I turn complex problems into clean, simple code ✨",
-    lifePhilosophy : "Learn → Build → Share → Repeat 🔁"
-};
+class NinjaCoder {
+    identity = "Shubham Maurya";
+    role     = "Software Engineer";
+    origin   = "India 🇮🇳";
+    creed    = ["Clean Code", "Ship Fast", "Break Nothing"];
+    
+    weapons  = ["MERN Stack", "Python", "System Design"];
+    training = ["Deep Learning", "Cloud Architecture"];
+    missions = ["Open Source", "AI/ML Research", "Web Apps"];
+    
+    email    = "smourya1046@gmail.com";
+    mantra    = "Learn → Build → Dominate";
+}
 ```
 
-<br/>
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center">🔭<br/><b>Building</b></td>
-    <td>AI/ML & MERN Stack projects</td>
-    <td align="center">🌱<br/><b>Learning</b></td>
-    <td>Advanced System Design & Deep Learning</td>
-  </tr>
-  <tr>
-    <td align="center">🤝<br/><b>Open To</b></td>
-    <td>Open Source, Web Apps & ML Research</td>
-    <td align="center">💬<br/><b>Ask Me</b></td>
-    <td>MERN, Python, AI/ML, DSA & System Design</td>
-  </tr>
-  <tr>
-    <td align="center">⚡<br/><b>Fun Fact</b></td>
-    <td>I love turning complex problems into clean code</td>
-    <td align="center">📫<br/><b>Reach Me</b></td>
-    <td><a href="mailto:smourya1046@gmail.com">smourya1046@gmail.com</a></td>
-  </tr>
-</table>
+> 🥷 *"A ninja doesn't chase trends. A ninja masters the craft."*
+
+</div>
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                            🌐  CONNECT WITH ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;Connect With Me
-
-<div align="center">
-
-<br/>
-
-<a href="mailto:smourya1046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shubham-maurya-99325b380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/ShubhamMau94210"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/shubhamm01729/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Playful_Willow_6581/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/27632565/algoxninja"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://github.com/shubham17290"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🛠️  TECH STACK & TOOLS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack & Tools
+## ⚔️ &nbsp;Weapons of Choice
 
 <div align="center">
 
 <details open>
-<summary><b>🧑‍💻 &nbsp; Languages</b></summary>
+<summary><b>🔤 &nbsp; Languages</b></summary>
 <br/>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🎨 &nbsp; Frontend</b></summary>
+<summary><b>🎨 &nbsp; Frontend Arsenal</b></summary>
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -163,17 +108,17 @@ const shubham: Developer = {
 <summary><b>⚙️ &nbsp; Backend & Databases</b></summary>
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=DC143C)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 </details>
 
@@ -181,49 +126,41 @@ const shubham: Developer = {
 <summary><b>🤖 &nbsp; AI / Machine Learning</b></summary>
 <br/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-121011?style=for-the-badge&logo=huggingface&logoColor=fff)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>☁️ &nbsp; Cloud & Hosting</b></summary>
+<summary><b>☁️ &nbsp; Cloud & DevOps</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🏗️ &nbsp; DevOps & Infrastructure</b></summary>
-<br/>
-
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔧 &nbsp; Version Control & Tools</b></summary>
+<summary><b>🔧 &nbsp; Tools & Testing</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </details>
 
@@ -231,138 +168,93 @@ const shubham: Developer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🤖  AI TOOLS I USE DAILY                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🤖 &nbsp;AI Tools I Use Daily
+## 🤖 &nbsp;AI Arsenal
 
 <div align="center">
 
 <br/>
 
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="https://chat.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
-<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
-<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
-<a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-1E1E1E?style=for-the-badge&logo=terminal&logoColor=00FF00" /></a>
-<a href="https://chat.qwen.ai/"><img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
+<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" /></a>
 <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=DC143C" /></a>
+<a href="https://chat.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /></a>
+<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+<a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=DC143C" /></a>
+<a href="https://chat.qwen.ai/"><img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
+
+<br/><br/>
+
+> ⚡ **Workflow:** `Think → Reason → Build → Ship → Repeat`
 
 </div>
 
-<br/>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center">🧠 Tool</th>
-      <th align="left">🎯 Purpose in My Workflow</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>💬 ChatGPT</b></td>
-      <td>Brainstorming ideas, debugging tricky logic, writing docs & technical explanations</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🐋 DeepSeek</b></td>
-      <td>Deep reasoning on DSA problems, math-heavy ML concepts & code refactoring</td>
-    </tr>
-    <tr>
-      <td align="center"><b>✨ Gemini</b></td>
-      <td>Long-context research, PDF/summary reading, and Google-ecosystem integrations</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🖱️ Cursor</b></td>
-      <td>AI-first IDE for fast MERN development, inline edits & multi-file refactors</td>
-    </tr>
-    <tr>
-      <td align="center"><b>⌨️ OpenCode</b></td>
-      <td>Terminal-native AI coding agent for quick scripts, debugging & automation</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🌐 Qwen</b></td>
-      <td>Open-weight LLM experiments, multilingual tasks & local model fine-tuning</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🎭 Claude</b></td>
-      <td>Writing clean, production-grade code, code review & detailed architectural thinking</td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-> 💡 **My AI-first workflow:** *Think with ChatGPT → Reason with DeepSeek → Code in Cursor → Polish with Claude → Ship with Gemini.*
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🚀  FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
+## 🔥 &nbsp;The Forge (Projects)
 
 <div align="center">
 
-### ⭐ &nbsp;Flagship Project
+### ⭐ &nbsp; Flagship
 
 <br/>
 
 <a href="https://github.com/shubham17290/AI-TELEGRAM-ASSISTANT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=AI-TELEGRAM-ASSISTANT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=shubham17290&repo=AI-TELEGRAM-ASSISTANT&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" />
 </a>
 
-**🤖 AI Telegram Assistant** — An intelligent Telegram bot powered by LLMs for automated conversations, task handling & smart replies.
+**🤖 AI TELEGRAM ASSISTANT** — LLM-powered bot for automated conversations & smart task handling.
 
-`Python` &nbsp; `OpenAI API` &nbsp; `Telegram Bot API` &nbsp; `LangChain`
+`Python` • `OpenAI API` • `LangChain` • `Telegram Bot`
 
 </div>
 
 <br/>
 
-### 🌟 &nbsp;More Projects
-
 <div align="center">
+
+### ⚔️ &nbsp; Battle-Tested Builds
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/shubham17290/FitXGuide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=FitXGuide&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=shubham17290&repo=FitXGuide&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" />
   </a>
-  <br/>
-  <b>💪 FitXGuide</b> — Your personal fitness companion for workouts, diet plans & health tracking.
   <br/><br/>
-  <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>TailwindCSS</code>
+  <b>💪 FitXGuide</b><br/>
+  <sub>Fitness companion for workouts & health tracking</sub>
+  <br/><br/>
+  <code>React</code> <code>Node.js</code> <code>MongoDB</code>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/shubham17290/PREPForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=PREPForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=shubham17290&repo=PREPForge&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" />
   </a>
-  <br/>
-  <b>📚 PREPForge</b> — A prep platform for DSA, interviews & study resources — all in one place.
   <br/><br/>
-  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+  <b>📚 PREPForge</b><br/>
+  <sub>All-in-one DSA & interview prep platform</sub>
+  <br/><br/>
+  <code>React</code> <code>Express</code> <code>MongoDB</code>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/shubham17290/shubham-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=shubham-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=shubham17290&repo=shubham-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" />
   </a>
-  <br/>
-  <b>🎨 Portfolio</b> — My personal portfolio website showcasing skills, projects & journey.
   <br/><br/>
-  <code>React</code> <code>TailwindCSS</code> <code>Vite</code> <code>Framer Motion</code>
+  <b>🎨 Portfolio</b><br/>
+  <sub>Personal showcase of skills & journey</sub>
+  <br/><br/>
+  <code>React</code> <code>TailwindCSS</code> <code>Framer</code>
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/shubham17290/Shubham_Maurya_PBEL_3.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham17290&repo=Shubham_Maurya_PBEL_3.0&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=shubham17290&repo=Shubham_Maurya_PBEL_3.0&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" />
   </a>
-  <br/>
-  <b>🧪 PBEL 3.0</b> — Project-based experimental learning project — hands-on engineering concepts.
+  <br/><br/>
+  <b>🧪 PBEL 3.0</b><br/>
+  <sub>Experimental learning — hands-on engineering</sub>
   <br/><br/>
   <code>Python</code> <code>ML</code> <code>Data Science</code>
 </td>
@@ -372,93 +264,55 @@ const shubham: Developer = {
 <br/>
 
 <a href="https://github.com/shubham17290?tab=repositories">
-  <img src="https://img.shields.io/badge/🔎%20%20Explore%20All%20Repositories-00FF00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚔️%20ENTER%20THE%20ARMORY-DC143C?style=for-the-badge&labelColor=000000" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          📊  GITHUB ANALYTICS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;Battle Stats
 
 <div align="center">
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham17290&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00BFFF&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham17290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=shubham17290&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubham17290&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham17290&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF00&ring=00BFFF&fire=FF6F00&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham17290&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=FFD700&fire=FF4500&currStreakLabel=DC143C&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham17290&theme=tokyonight" alt="Profile Details" />
+<img src="https://ghchart.rshah.org/DC143C/shubham17290" alt="Contribution Chart" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham17290&theme=tokyonight" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham17290&theme=tokyonight" alt="Most Commit Language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham17290&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham17290&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham17290&theme=redical&bg_color=0D1117&color=DC143C&line=FFD700&point=ffffff&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🏆  TROPHY CABINET                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Trophy Cabinet
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham17290&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Trophies" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        📅  LIVE CONTRIBUTION ACTIVITY                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📅 &nbsp;Live Contribution Activity
-
-<div align="center">
-
-<br/>
-
-<img src="https://ghchart.rshah.org/00FF00/shubham17290" alt="GitHub Contribution Chart" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham17290&theme=react-dark&bg_color=0D1117&color=00FF00&line=00BFFF&point=FFFFFF&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           🐍  SNAKE ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten
+## 🐍 &nbsp;Shadow Moves
 
 <div align="center">
 
@@ -469,22 +323,21 @@ const shubham: Developer = {
 </div>
 
 <details>
-<summary><b>⚙️ &nbsp;Enable the Snake Animation (one-time setup)</b></summary>
+<summary><b>⚙️ &nbsp;Enable Snake Animation (one-time setup)</b></summary>
 
 <br/>
 
-If the snake isn't showing, create a workflow at `.github/workflows/snake.yml` in your **profile repo** (`shubham17290/shubham17290`) and paste:
+Create `.github/workflows/snake.yml` in your **profile repo** and paste:
 
 ```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   build:
@@ -493,14 +346,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -508,67 +359,45 @@ jobs:
           publish_branch: output
 ```
 
-Then go to **Actions → Generate Snake Animation → Run workflow**. Done! ✅
+Then run **Actions → Generate Snake Animation → Run workflow**. ✅
 
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🎯  MY JOURNEY & GOALS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🎯 &nbsp;Mission Log
 
-## 🎯 &nbsp;My Journey & Goals
-
-### 🚀 &nbsp;Roadmap Progress
+### ⚔️ &nbsp;Skill Tree
 
 ```text
-🌱 Foundations     ████████████████████░░░░░  80%   DSA • C++ • Python
-🎨 Frontend        ██████████████████░░░░░░░  75%   React • Next.js • Tailwind
-⚙️ Backend         ████████████████░░░░░░░░░  65%   Node • Express • FastAPI • MongoDB
-🤖 AI / ML         ████████████░░░░░░░░░░░░░  50%   TensorFlow • PyTorch • scikit-learn
-☁️ DevOps & Cloud  ████████░░░░░░░░░░░░░░░░░  35%   Docker • K8s • AWS • CI/CD
-🧠 System Design   ██████░░░░░░░░░░░░░░░░░░░  25%   HLD • LLD • Scalability
+🥷 FOUNDATIONS      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   80%   DSA • C++ • Python
+🎨 FRONTEND         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   75%   React • Next.js • Tailwind
+⚙️ BACKEND          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   65%   Node • Express • FastAPI
+🤖 AI / ML          ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   50%   TensorFlow • PyTorch
+☁️ CLOUD / DEVOPS   ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   35%   Docker • K8s • AWS
+🧠 SYSTEM DESIGN    ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   25%   HLD • LLD • Scale
 ```
 
 <br/>
 
-### 💡 &nbsp;What I'm Doing Right Now
+### 🗡️ &nbsp;Active Missions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🚧 &nbsp;Building**
-- 🛒 Production-ready MERN applications
-- 🔌 Scalable REST APIs (Node.js & FastAPI)
-- 🤖 AI/ML side projects with real datasets
+**🔨 &nbsp;Forging**
+- Production-grade MERN apps
+- Scalable REST APIs
+- AI/ML projects with real data
 
 </td>
 <td width="50%" valign="top">
 
-**📚 &nbsp;Learning**
-- 🧠 Advanced System Design
-- 🕸️ Deep Learning (TensorFlow, PyTorch)
-- ☸️ Kubernetes & Cloud-native workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌱 &nbsp;Contributing**
-- 🛠️ Open-source developer tools
-- 🌟 Beginner-friendly repositories
-- 🔬 ML experiments & research
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 &nbsp;Sharpening**
-- 📊 Data Structures & Algorithms
-- 🏗️ Clean architecture principles
-- 🧪 Testing, CI/CD & automation
+**📖 &nbsp;Training**
+- Advanced System Design
+- Deep Learning (TF, PyTorch)
+- Kubernetes & Cloud-native
 
 </td>
 </tr>
@@ -576,101 +405,59 @@ Then go to **Actions → Generate Snake Animation → Run workflow**. Done! ✅
 
 <br/>
 
-### 🧠 &nbsp;2026 Goals Tracker
+### 🏁 &nbsp;2026 Objectives
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯&nbsp;Goal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📌&nbsp;Status |
+| ⚔️ Objective | Status |
 | :--- | :---: |
-| Ship **3+** production-grade full-stack projects | 🔄 In Progress |
-| Contribute regularly to **Open Source** | 🔄 In Progress |
+| Ship **3+** production-grade full-stack apps | 🔥 In Progress |
+| Contribute to **Open Source** regularly | 🔥 In Progress |
 | Write **technical blogs / tutorials** | ⏳ Pending |
-| Master **System Design** fundamentals | 🔄 In Progress |
-| Collaborate on an **AI/ML** research or product | ⏳ Pending |
+| Master **System Design** fundamentals | 🔥 In Progress |
+| Collaborate on an **AI/ML** project | ⏳ Pending |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         🤝  LET'S COLLABORATE                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Let's Collaborate
+## 📡 &nbsp;Summon Me
 
 <div align="center">
 
 <br/>
 
-<table>
-  <tr>
-    <th align="center">🌐<br/>MERN Web Apps</th>
-    <th align="center">🛠️<br/>OSS Dev Tools</th>
-    <th align="center">🤖<br/>AI/ML Research</th>
-    <th align="center">🌱<br/>Beginner OSS</th>
-  </tr>
-</table>
-
-<br/>
-
-**Have an idea? Let's build it together.** 🚀
-
-<br/>
-
-<a href="mailto:smourya1046@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20%20smourya1046@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        ✍️  DEV QUOTE OF THE DAY                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## ✍️ &nbsp;Dev Quote of the Day
-
-<div align="center">
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           💰  SUPPORT MY WORK                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💰 &nbsp;Support My Work
-
-<div align="center">
-
-<br/>
-
-If you find my work helpful, a small coffee goes a long way ☕
+<a href="mailto:smourya1046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubham-maurya-99325b380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/ShubhamMau94210"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/shubham17290"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=DC143C" /></a>
+<a href="https://stackoverflow.com/users/27632565/algoxninja"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.instagram.com/shubhamm01729/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/Playful_Willow_6581/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://www.buymeacoffee.com/shubhammau">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://paypal.me/shubhammaurya">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+**📧 smourya1046@gmail.com** &nbsp;•&nbsp; Open to **collabs, OSS, AI/ML projects**
+
+</div>
+
+---
+
+## ✍️ &nbsp;Words of the Wise
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              ✨  FOOTER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <br/>
 
-<i>⭐️ From <a href="https://github.com/shubham17290"><b>Shubham Maurya</b></a> — crafted with 💚, caffeine & clean code.</i>
+<i>⭐️ <b>Shubham Maurya</b> — Sharpened with 💚, caffeine & clean code.</i>
 
 <br/>
 
@@ -680,7 +467,6 @@ If you find my work helpful, a small coffee goes a long way ☕
 
 </div>
 
-<!-- ───────  FOOTER WAVE (with text properly placed inside)  ─────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=72&desc=Let's%20build%20something%20amazing%20together%20%E2%9C%A8&descAlignY=88&descSize=16" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=footer&text=Stay%20Sharp.%20Stay%20Silent.%20Ship%20Code.&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75&desc=%E2%9A%94%EF%B8%8F%20Code%20%7C%20Conquer%20%7C%20Repeat%20%E2%9A%94%EF%B8%8F&descAlignY=90&descSize=14" width="100%" alt="Footer"/>
 </div>
