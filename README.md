@@ -18,13 +18,19 @@
 
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--     🛡️ PROFILE VIEWS (Powered by GitHub Actions - NEVER CRASHES) 🛡️       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1,234-DC143C?style=for-the-badge&labelColor=000000&logo=github)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <a href="https://github.com/shubham17290?tab=followers"><img src="https://img.shields.io/github/followers/shubham17290?label=ALLIES&style=for-the-badge&color=000000&logo=github&logoColor=DC143C" alt="Followers" /></a>
 &nbsp;
 <a href="https://github.com/shubham17290?tab=repositories"><img src="https://img.shields.io/github/stars/shubham17290?label=CONQUESTS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700" alt="Stars" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-CODING-FF4500?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shubham17290.shubham17290&left_text=RECON&left_color=black&right_color=DC143C" alt="Visitors" />
 
 </div>
 
