@@ -11,17 +11,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=DC143C&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Root+Access+Granted+%F0%9F%94%93;%3E+Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;%3E+Training+AI+Models+%F0%9F%A4%96;%3E+Writing+Clean+Code+That+Ships+%F0%9F%9A%80;%3E+Never+Stop+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DC143C&background=00000000&center=true&vCenter=true&width=900&lines=%3E+Root+Access+Granted+%F0%9F%94%93;%3E+Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;%3E+Training+AI+Models+%F0%9F%A4%96;%3E+Writing+Clean+Code+That+Ships+%F0%9F%9A%80;%3E+Never+Stop+Learning+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubham17290&label=RECON&color=DC143C&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/shubham17290?label=ALLIES&style=for-the-badge&color=000000&logo=github&logoColor=DC143C)
-![Stars](https://img.shields.io/github/stars/shubham17290?label=CONQUESTS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700)
-![Status](https://img.shields.io/badge/STATUS-CODING-FF4500?style=for-the-badge&logo=statuspage&logoColor=white)
+<a href="https://github.com/shubham17290?tab=followers"><img src="https://img.shields.io/github/followers/shubham17290?label=ALLIES&style=for-the-badge&color=000000&logo=github&logoColor=DC143C" alt="Followers" /></a>
+&nbsp;
+<a href="https://github.com/shubham17290?tab=repositories"><img src="https://img.shields.io/github/stars/shubham17290?label=CONQUESTS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700" alt="Stars" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-CODING-FF4500?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shubham17290.shubham17290&left_text=RECON&left_color=black&right_color=DC143C" alt="Visitors" />
 
 </div>
 
@@ -44,35 +47,81 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       🥷  THE CODER — TERMINAL CARD                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 🥷 &nbsp;The Coder
 
-<img align="right" alt="Ninja Coder" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_SYSTEM.PROFILE-shubham%40ninja--arch-DC143C?style=for-the-badge&labelColor=000000" />
+
+<br/>
 
 ```typescript
 class NinjaCoder {
-    identity = "Shubham Maurya";
-    role     = "Software Engineer";
+
+    // 🥷 IDENTITY
+    alias    = "Shubham Maurya";
+    rank     = "Software Engineer";
     origin   = "India 🇮🇳";
-    creed    = ["Clean Code", "Ship Fast", "Break Nothing"];
-    
+
+    // ⚔️ ARSENAL
     weapons  = ["MERN Stack", "Python", "System Design"];
     training = ["Deep Learning", "Cloud Architecture"];
+
+    // 🎯 MISSION
     missions = ["Open Source", "AI/ML Research", "Web Apps"];
-    
+
+    // 📡 COMMS
     email    = "smourya1046@gmail.com";
-    mantra    = "Learn → Build → Dominate";
+
+    // 🔥 CREED
+    mantra   = "Learn → Build → Dominate";
+
 }
 ```
 
+</td>
+<td width="42%" valign="top" align="center">
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Ninja" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/●_ONLINE-00FF00?style=for-the-badge&labelColor=000000" />
+&nbsp;
+<img src="https://img.shields.io/badge/●_CODING-DC143C?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_INDIA-FFD700?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/⏰_IST-FFD700?style=flat-square&labelColor=000000" />
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-> 🥷 *"A ninja doesn't chase trends. A ninja masters the craft."*
+<br/>
+
+> ⚔️ *"A ninja doesn't chase trends. A ninja masters the craft."*
 
 </div>
 
-<br clear="right"/>
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ⚔️  WEAPONS OF CHOICE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## ⚔️ &nbsp;Weapons of Choice
 
@@ -168,6 +217,10 @@ class NinjaCoder {
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             🤖  AI ARSENAL                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 🤖 &nbsp;AI Arsenal
 
 <div align="center">
@@ -189,6 +242,10 @@ class NinjaCoder {
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           🔥  THE FORGE (PROJECTS)                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🔥 &nbsp;The Forge (Projects)
 
@@ -271,6 +328,10 @@ class NinjaCoder {
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             📊  BATTLE STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 📊 &nbsp;Battle Stats
 
 <div align="center">
@@ -298,6 +359,10 @@ class NinjaCoder {
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                               🏆  TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
@@ -311,6 +376,10 @@ class NinjaCoder {
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           🐍  SHADOW MOVES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Shadow Moves
 
@@ -365,6 +434,10 @@ Then run **Actions → Generate Snake Animation → Run workflow**. ✅
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            🎯  MISSION LOG                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 🎯 &nbsp;Mission Log
 
 ### ⚔️ &nbsp;Skill Tree
@@ -417,6 +490,10 @@ Then run **Actions → Generate Snake Animation → Run workflow**. ✅
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              📡  SUMMON ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 📡 &nbsp;Summon Me
 
 <div align="center">
@@ -438,6 +515,10 @@ Then run **Actions → Generate Snake Animation → Run workflow**. ✅
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✍️  WORDS OF THE WISE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## ✍️ &nbsp;Words of the Wise
 
